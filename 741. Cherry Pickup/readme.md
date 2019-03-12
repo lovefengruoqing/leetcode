@@ -36,3 +36,6 @@ grid is an N by N 2D array, with 1 <= N <= 50.
 Each grid[i][j] is an integer in the set {-1, 0, 1}.
 It is guaranteed that grid[0][0] and grid[N-1][N-1] are not -1.
 
+# 思路
+
+这个题是我随机来的，后来发现挺难的。刚开始我觉得应该用类似于
